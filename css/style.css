@@ -1,0 +1,51 @@
+
+
+
+.container-md{
+    display: flex;
+    justify-content: center;
+    background-color: cornflowerblue;
+}
+
+.imagenHeader{
+    width: 300px;
+
+}
+
+.container-sm{
+   padding: 30px;
+}
+
+.campo{
+    width: 550px;
+    height: 60px;
+    margin: 20px;
+}
+
+.container{
+    width: 400px;
+}
+
+.btn-success{
+width: 600px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    display: flex;
+    width: 600px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+footer{
+    background-color: cornflowerblue;
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
